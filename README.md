@@ -26,7 +26,7 @@ We used the Power Query tool to clean the data sets. From the order data, we not
 
 After cleaning the individual data sets, we merged them to facilitate the analysis. We used Power Query to join the order and return data sets based on the order ID column. We also created a conditional column called Returned, which indicated whether an order was returned or not. Then we merged the resulting data set with the people data set based on the customer name column. This gave us a comprehensive data set that contained all the relevant information for our project.
 
-![](Datamodel.png)
+![](Datamodel.PNG)
 ## Visualization
 #### 1.	What are the three countries that generated the highest total profit for Global Superstore in 2014? For each of these three countries, find the three products with the highest total profit. Specifically, what are the products’ names and the total profit for each product?
    
