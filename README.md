@@ -111,7 +111,7 @@ You can get the dashboard [here](https://app.powerbi.com/links/W0vJmXudbk?ctid=4
 ## References
 
 - [1]  Github documentation
-[https://www.youtube.com/](https://www.youtube.com/live/GLIwyoPWrHs?feature=share)
+[Youtube](https://www.youtube.com/live/GLIwyoPWrHs?feature=share)
 
 
 
