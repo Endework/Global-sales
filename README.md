@@ -1,8 +1,10 @@
 # Global Superstore Data Analysis
 ## Table of Contents
+
 - [Introduction](Introduction)
 - [Methodology](Methodology)
 - [Visualization](Visualization)
+
 
 
 
