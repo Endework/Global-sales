@@ -83,21 +83,24 @@ The chart above shows the average profit of different cities in the USA. It is c
 
 #### 6. Which product subcategory has the highest average profit in Australia?
 ![](AverageprofitinAustralia.png)
+
 The subcategory products that generate the most profit in Australia are appliances, copiers and phones, according to the chart above. These products have an average profit of $139, $105 and $99 per unit, respectively, which are significantly higher than the other subcategories
 
 #### 7. Who are the most valuable customers and what do they purchase?
 ![](valuablecustomers.png)
+
 To identify the most valuable customers in our sales data, we used several criteria to rank them. First, we looked at the number of items they bought and the average profit per item. Second, we looked at the category of items they bought, such as technology, office supplies, or furniture. Third, we looked at whether they returned any items or not. Based on these criteria, we found that the most valuable customers in each category were:
 
 - Technology: Jennifer Ferguson, who bought 6 items with an average profit of 207.48 dollars 
 - Office Supplies: Jane Waco, who bought 8 items with an average profit of 88.7 dollars and 
 - Furniture: Danny Ordway, who bought 5 items with an average profit of 188.27 dollars and
 
-
-  | Dashboard 1 |  Dashboard 2 |
+|         Dashboard 1                        |       Dashboard 2                  |
 | ------------------------------------------ | ---------------------------------- |
-| ![](finaldashboard.png) |  ![](dashboard2.png) |
-  
+| ![](finaldashboard.png)                    |  ![](dashboard2.PNG)               |
+
+
+ 
 
 
 To summarize Global Superstore is a successful company that sells various products in different categories and regions. From 2011 to 2014, it achieved impressive results, with more than 12 million sales, 178 thousand units sold, and 1.47 million profit. The company's main product categories are technology, furniture, and office supplies. Among them, technology products have the highest profit margin, while office supplies have the lowest. However, office supplies are the most popular products in terms of quantity sold, followed by furniture and technology. The company's customer base is global, but the majority of its sales come from three regions: Central, South, and EMEA. These regions have shown consistent demand for the company's products over the years.
