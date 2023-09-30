@@ -1,5 +1,8 @@
 # Global Superstore Data Analysis
 ## Table of Contents
+- [Introduction](Introduction)
+- [Methodology](Methodology)
+- [Visualization](Visualization)
 
 
 
@@ -83,7 +86,7 @@ To identify the most valuable customers in our sales data, we used several crite
 ![](finaldashboard.png)
 To summarize Global Superstore is a successful company that sells various products in different categories and regions. From 2011 to 2014, it achieved impressive results, with more than 12 million sales, 178 thousand units sold, and 1.47 million profit. The company's main product categories are technology, furniture, and office supplies. Among them, technology products have the highest profit margin, while office supplies have the lowest. However, office supplies are the most popular products in terms of quantity sold, followed by furniture and technology. The company's customer base is global, but the majority of its sales come from three regions: Central, South, and EMEA. These regions have shown consistent demand for the company's products over the years.
 
-// code for coloring
+you can get the dashboard [here](https://app.powerbi.com/links/W0vJmXudbk?ctid=41896c65-9391-4083-8d92-38447ac4911f&pbi_source=linkShare&bookmarkGuid=478a367e-cac2-4df7-ab7f-e1e0481350ce)
 
 
 
